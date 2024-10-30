@@ -6,4 +6,7 @@
     <string name="lingkaran">LINGKARAN</string>
     <string name="persegi">PERSEGI</string>
     <string name="persegipanjang">PERSEGI PANJANG</string>
+    <string name="sisi">Sisi : </string>
+    <string name="hitung">Hitung</string>
+    <string name="batal">Batal</string>
 </resources>
