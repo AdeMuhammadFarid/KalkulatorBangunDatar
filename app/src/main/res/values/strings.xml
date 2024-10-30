@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator Bangun Datar</string>
+    <string name="pilih">PILIH</string>
+    <string name="bangun">Bangun Datar</string>
+    <string name="segitiga">SEGITIGA</string>
+    <string name="lingkaran">LINGKARAN</string>
+    <string name="persegi">PERSEGI</string>
+    <string name="persegipanjang">PERSEGI PANJANG</string>
+</resources>
